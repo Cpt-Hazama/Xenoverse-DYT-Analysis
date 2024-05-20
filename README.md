@@ -46,3 +46,7 @@ I'm assuming you also would like to know how to setup Xenoverse 2 base textures 
 - (Optional) if damage textures are present in the original channels, repeat the above and paste them in a new layer and layer them
 
 You can save the DBXV2_Detail.alv to 'C:\Users\OS_USERNAME\AppData\Roaming\Adobe\Adobe Photoshop XXXX\Presets\Levels'
+
+## Media
+![Preview](https://github.com/Cpt-Hazama/Xenoverse-DYT-Analysis/assets/7193583/9682e6df-2cd0-48c7-9fff-a40c4f2a7520)
+![20240520031251_1](https://github.com/Cpt-Hazama/Xenoverse-DYT-Analysis/assets/7193583/adf5163a-9ae2-4ae1-af26-72c8e8e6768f)
