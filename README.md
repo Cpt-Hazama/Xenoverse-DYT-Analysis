@@ -1,4 +1,5 @@
 # Xenoverse 2 DYT Analysis Script
+![logo](https://github.com/Cpt-Hazama/Xenoverse-DYT-Analysis/assets/7193583/35689506-393a-4da9-b068-30a6b0fc4139)
 
 This is a simple script that extracts the lightwarps and color data from Xenoverse 2 DYTs. This is more-so useful for porters like myself, I'm not sure if Xenoverse 2 modders would need this at all. I made this with the idea of Garry's Mod/SFM porting in mind, as I seem to be the only person who can properly setup Xenoverse 2 materials in Source...
 
